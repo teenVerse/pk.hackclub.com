@@ -1,2 +1,2 @@
-# pk.hackclub.com
+# teenverse.hackclub.com
 Official Website of TeenVerse
